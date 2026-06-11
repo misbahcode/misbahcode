@@ -367,21 +367,6 @@ Academic management system for university result processing and student informat
 
 </p>
 
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=misbahcode&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=misbahcode&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
