@@ -385,6 +385,83 @@ Academic management system for university result processing and student informat
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/misbahcode/misbahcode/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions"/>
+</p>
+
+### 🔧 How to Set Up Snake Animation
+
+To display the snake animation on your README, follow these simple steps:
+
+#### Step 1: Create the Workflow Directory
+In your GitHub repository, create the following directory structure:
+```bash
+mkdir -p .github/workflows
+```
+
+#### Step 2: Create the Workflow File
+Create a file named `snake.yml` in the `.github/workflows/` directory with the following content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: misbahcode
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+#### Step 3: Commit and Push
+```bash
+git add .github/workflows/snake.yml
+git commit -m "Add snake contribution animation"
+git push origin main
+```
+
+#### Step 4: Enable GitHub Actions
+- Go to your repository settings
+- Navigate to **Actions** → **General**
+- Under "Actions permissions", select **Allow all actions and reusable workflows**
+- Click **Save**
+
+#### Step 5: Trigger the Workflow
+- Go to **Actions** tab in your repository
+- Find **"Generate Snake"** workflow
+- Click **Run workflow** → **Run workflow**
+
+The snake animation will now:
+- 🔄 Update automatically every day at midnight UTC
+- 🎮 Display your GitHub contribution pattern as an animated snake
+- 📊 Appear on your README where the image link is placed
+- ✨ Work seamlessly with GitHub's dark/light theme
+
+---
+
 ## 🎯 Current Focus (2026)
 
 ```yaml
@@ -468,4 +545,5 @@ I'm always open to interesting opportunities, collaborations, and tech discussio
 ---
 
 **Last Updated:** June 2026  
-**Profile Status:** Open to Opportunities
+**Profile Status:** Open to Opportunities  
+**Snake Animation:** Configured & Ready ✅
