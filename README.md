@@ -5,314 +5,467 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Cloud+Computing+Learner;CDAC-DAC+2026;Software+Engineer+in+Progress"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Spring+Boot+%26+Backend+Specialist;Java+Enterprise+Solutions;PG-DAC+CDAC+2026;Building+Scalable+Applications"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CDAC-DAC'26-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CDAC-PG--DAC'26-6A0DAD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/B.Tech-CSE'25-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ex%20Intern-GAOTek%20Inc-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-5D3FD3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Delhi%2F%20Pune-5D3FD3?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohdmisbah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/mohdmisbah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Misbah-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/misbahcode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-misbahcode-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6A0DAD&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=misbahcode&label=Profile%20Views&color=6A0DAD&style=flat-square"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-Software Engineer passionate about building scalable applications, modern web experiences, and AI-powered solutions.
+I'm a **Full Stack Developer** and **Java Backend Specialist** currently pursuing a **Post Graduate Diploma in Advanced Computing (PG-DAC)** at **CDAC/ACTS Pune**. I'm passionate about building **scalable, enterprise-grade applications** using **Spring Boot**, **Hibernate**, and modern web technologies. 
 
-- 🎓 CDAC DAC 2026
-- 💻 Full Stack Development
-- ☁️ Cloud Computing Enthusiast
-- 🤖 AI / Machine Learning Explorer
-- 🌐 WordPress & Web Technologies
-- 🚀 Open Source Learner
-- 📍 Pune, India
+With a strong foundation in **Java-based development**, I specialize in creating robust backend solutions while maintaining full-stack capabilities. I believe in clean code, architectural excellence, and continuous learning.
 
-### Open To
+### 🎯 Core Focus Areas
 
-- Software Engineer Roles
-- Full Stack Developer Roles
-- Backend Developer Roles
-- AI/ML Opportunities
-- Open Source Collaboration
+- **Backend Development** - Spring Boot, Spring Framework, REST APIs, Microservices
+- **Database Design** - MySQL, Hibernate ORM, JPA, Database Optimization
+- **Enterprise Applications** - Multi-layered architectures, Design Patterns, SOLID Principles
+- **Web Technologies** - HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
+- **Full Stack Integration** - End-to-end application development from API to UI
+
+### 🚀 Currently Learning & Building
+
+- Advanced Spring Boot & Spring Security
+- JWT Authentication & Authorization
+- Microservices Architecture & Cloud Computing
+- System Design & Scalability Patterns
+- AI/ML Integration in Applications
+
+### 🤝 Open To
+
+- **Software Engineer Roles** (Backend/Full Stack)
+- **Java Development Opportunities**
+- **Spring Boot Projects**
+- **Open Source Collaboration**
+- **Technical Mentorship**
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-## Languages
+### Languages & Core
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c"/>
 </p>
 
-## Frontend
+| Language | Proficiency | Use Cases |
+|----------|------------|-----------|
+| **Java** | Expert | Spring Boot, Enterprise Apps, Desktop Applications |
+| **Python** | Advanced | Scripting, Data Analysis, AI/ML Exploration |
+| **JavaScript** | Advanced | Frontend Development, Node.js Backend |
+| **C++** | Intermediate | System Programming, Algorithms |
+
+### Frontend Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
 </p>
 
-## Backend & Database
+- **HTML5 & CSS3** - Semantic markup, responsive design, modern CSS features
+- **JavaScript (ES6+)** - DOM manipulation, async programming, vanilla JS
+- **React** - Component-based architecture, hooks, state management
+- **Bootstrap & Tailwind CSS** - Responsive design, utility-first frameworks
+- **UI/UX Design** - Dark glassmorphism aesthetics, user-centered design
+
+### Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven,gradle"/>
 </p>
 
-## Cloud, DevOps & Tools
+- **Spring Framework** - Dependency Injection, XML & Annotation-based configuration
+- **Spring Boot** - Auto-configuration, embedded servers, rapid development
+- **Spring Security** - Authentication, authorization, JDBC/JWT implementation
+- **Hibernate ORM** - JPA mapping, lazy loading, database optimization
+- **REST APIs** - Design patterns, HTTP methods, JSON/XML handling
+- **Node.js & Express** - Backend scripting, middleware implementation
+
+### Databases & Data Management
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 </p>
 
+- **MySQL** - Relational database design, normalization, complex queries
+- **MongoDB** - NoSQL, document-based storage, aggregation pipelines
+- **Hibernate/JPA** - ORM framework, entity relationships, CRUD operations
+- **SQL & PL/SQL** - Advanced queries, stored procedures, optimization
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel,maven"/>
+</p>
+
+- **AWS** - Cloud computing fundamentals, deployment strategies
+- **Docker** - Containerization, Docker compose, deployment automation
+- **Git & GitHub** - Version control, collaboration, open source contribution
+- **Linux** - Command-line tools, system administration, server management
+- **Maven & Gradle** - Build automation, dependency management, project structure
+
 ---
 
-# 🤖 AI / ML Expertise
+## 🎓 Recent Accomplishments (PG-DAC)
 
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Advanced | Model Development & Evaluation |
-| Data Analytics | Advanced | Data Cleaning & Insights |
-| NLP | Intermediate | Chatbots & Text Processing |
-| Deep Learning | Intermediate | Neural Network Concepts |
-| AI Integration | Intermediate | AI Features in Applications |
+### Spring Boot Mastery
+✅ **Spring Security Implementation** - JDBC & MySQL authentication systems  
+✅ **JWT Authentication System** - Token-based security architecture  
+✅ **Spring MVC Framework** - Complete MVC pattern implementation  
+✅ **Hibernate ORM** - Complex entity relationships, lazy loading optimization  
+✅ **REST API Development** - Stateless API design and implementation  
+
+### Database & Backend Projects
+✅ **Multi-layered Spring Boot CRUD Application (SB5)** - Employee management with JPA/Thymeleaf/MySQL  
+✅ **Spring MVC Library Management System** - Rebuilt from scratch with Hibernate and JSP  
+✅ **Jakarta EE OnlineBookShop Application** - Resolved 12+ critical bugs in enterprise application  
+✅ **Spring Framework DI Project** - Comprehensive Maven project with XML & annotation-based patterns  
+
+### Study Materials & Documentation
+✅ **Comprehensive PDF Study Notes** - Web-based Java Programming (WBJ) course materials  
+✅ **Spring Boot & Microservices Documentation** - Structured learning resources  
+✅ **Database Design Guide** - SQL, PL/SQL, and MongoDB mastery  
+✅ **Web Technologies Reference** - Complete HTML5, CSS, JavaScript, React, Redux notes  
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>🎙 Voice Enabled Virtual Assistant</b></summary>
+<summary><b>🛠️ Spring Boot Employee CRUD Application (SB5)</b></summary>
 
 ### Overview
+A complete multi-layered Spring Boot application demonstrating professional enterprise development practices.
 
-Built an intelligent voice-controlled assistant capable of executing commands and automating tasks.
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Spring Boot, Spring Data JPA, Hibernate, MySQL, Thymeleaf |
+| **Architecture** | MVC Pattern with Service & Repository layers |
+| **Database** | Relational database with normalized schema |
+| **Features** | CRUD operations, exception handling, validation |
+| **Complexity** | Multi-entity relationships, complex business logic |
+| **Repository** | [View on GitHub](https://github.com/misbahcode) |
 
-| Category | Details |
-|----------|----------|
-| Stack | Python, Speech Recognition |
-| Scale | Personal Productivity Tool |
-| Performance | Real-time Response |
-| Security | Input Validation |
-| Impact | Task Automation |
-| Repository | Add Link |
+### Key Learnings
+- Proper entity modeling with JPA annotations
+- Transaction management and ACID properties
+- Thymeleaf template engine integration
+- Exception handling and validation patterns
 
 </details>
 
 <details>
-<summary><b>🛒 E-Commerce Website</b></summary>
+<summary><b>📚 Spring MVC Library Management System</b></summary>
 
 ### Overview
+Enterprise-grade library management system rebuilt from scratch demonstrating MVC architecture mastery.
 
-Developed a responsive e-commerce platform inspired by premium product experiences.
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Spring MVC, Hibernate, JSP, MySQL, Maven |
+| **Architecture** | Classic MVC with proper separation of concerns |
+| **Features** | Book catalog, user management, borrow/return system |
+| **Database** | Complex relationships (Books, Users, Transactions) |
+| **Deployment** | Tomcat server integration |
+| **Repository** | [View on GitHub](https://github.com/misbahcode) |
 
-| Category | Details |
-|----------|----------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Multi-page Platform |
-| Performance | Optimized UI |
-| Security | Form Validation |
-| Impact | Improved User Experience |
-| Repository | Add Link |
+### Technical Highlights
+- Hibernate mapping with one-to-many & many-to-many relationships
+- JSP views with MVC controller integration
+- Service layer for business logic separation
+- Data validation and error handling
 
 </details>
 
 <details>
-<summary><b>🔍 WordPress AJAX Live Search</b></summary>
+<summary><b>🛒 Jakarta EE OnlineBookShop Application (Bug Fix)</b></summary>
 
 ### Overview
+Production-level enterprise application with comprehensive bug resolution (12+ critical issues).
 
-Implemented dynamic search with category filtering and real-time product retrieval.
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Jakarta EE, Hibernate, JSP, MySQL, Tomcat |
+| **Issues Resolved** | 12+ critical bugs across multiple layers |
+| **Categories** | Logic errors, database operations, UI rendering |
+| **Testing** | Comprehensive testing and validation |
+| **Documentation** | Detailed bug reports and solutions |
+| **Repository** | [View on GitHub](https://github.com/misbahcode) |
 
-| Category | Details |
-|----------|----------|
-| Stack | WordPress, AJAX, PHP |
-| Scale | Production Website |
-| Performance | Instant Results |
-| Security | Sanitized Requests |
-| Impact | Better Product Discovery |
-| Repository | Add Link |
+### Bug Categories Fixed
+- Database transaction handling issues
+- Hibernate lazy loading problems
+- JSP template rendering errors
+- Business logic calculation bugs
+- User authentication & session management
+
+</details>
+
+<details>
+<summary><b>🎨 Personal Portfolio Website</b></summary>
+
+### Overview
+Modern portfolio website featuring dark glassmorphism aesthetic with full responsive design.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | HTML5, CSS3, JavaScript, Responsive Design |
+| **Design Pattern** | Glassmorphism with dark theme |
+| **Sections** | Profile, Education, Skills, Projects, Contact |
+| **Features** | Smooth animations, interactive elements, mobile-optimized |
+| **Performance** | Optimized assets, fast loading |
+| **Repository** | [View on GitHub](https://github.com/misbahcode) |
+
+</details>
+
+<details>
+<summary><b>🎙️ INERTIA Virtual Assistant</b></summary>
+
+### Overview
+Intelligent voice-controlled assistant for task automation and productivity enhancement.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Python, Speech Recognition, NLP |
+| **Features** | Voice commands, task execution, real-time response |
+| **Capabilities** | Command processing, automation workflows |
+| **Performance** | Low-latency response time |
+| **Repository** | [View on GitHub](https://github.com/misbahcode) |
+
+</details>
+
+<details>
+<summary><b>🎓 University Result Application</b></summary>
+
+### Overview
+Academic management system for university result processing and student information.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Full Stack (Backend: Java/Spring, Frontend: Web Tech) |
+| **Features** | Result processing, student records, data visualization |
+| **Database** | Complex academic data schema |
+| **Repository** | [View on GitHub](https://github.com/misbahcode) |
 
 </details>
 
 ---
 
-# 💼 Experience
+## 💼 Professional Experience
 
-## Web Development Intern | GAOTek Inc.
+### Web Developer Intern | GAOTek Inc.
+**Duration:** Completed Internship  
+**Location:** Remote
 
-**Duration:** Internship
+#### Responsibilities
+- 🌐 **Responsive Web Development** - Created mobile-first, cross-browser compatible websites
+- 🎨 **UI/UX Improvements** - Enhanced user experience and visual design
+- ⚙️ **Frontend Optimization** - Performance tuning and code optimization
+- 📧 **WordPress Integration** - Theme customization and plugin development
+- 📖 **Documentation** - Technical documentation and knowledge transfer
 
-Worked on web technologies, UI improvements, and business-oriented digital solutions.
+#### Skills Demonstrated
+`HTML` `CSS` `JavaScript` `WordPress` `PHP` `UI/UX` `Web Development`
 
-### Responsibilities
-
-- Responsive Web Development
-- UI/UX Improvements
-- Frontend Optimization
-- Website Maintenance
-- Documentation
-
-### Skills
-
-`HTML`
-`CSS`
-`JavaScript`
-`WordPress`
-`UI/UX`
+#### Achievements
+- Successfully deployed multiple production websites
+- Improved website performance by implementing optimization techniques
+- Collaborated with cross-functional teams on digital solutions
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-| Recognition | Details |
-|------------|----------|
-| CDAC DAC 2026 | Advanced Computing Program |
-| B.Tech CSE | Computer Science Graduate |
-| Internship Experience | Industry Exposure |
-| Multiple Projects | Full Stack & AI Applications |
-
----
-
-# 📜 Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6A0DAD?style=for-the-badge)
+| Recognition | Year | Details |
+|------------|------|---------|
+| **CDAC PG-DAC** | 2026 | Advanced Computing Program - Advanced Java & Web Technologies |
+| **B.Tech CSE** | 2025 | Computer Science Engineering - Jamia Hamdard University |
+| **Web Developer Internship** | Completed | Industry exposure at GAOTek Inc. |
+| **Spring Boot Expertise** | 2025-26 | Deep dive into enterprise Spring framework development |
+| **Multiple Production Projects** | Ongoing | Full Stack & Backend Application Development |
+| **Open Source Learning** | Ongoing | Active contribution to learning and knowledge sharing |
 
 ---
 
-# 💻 Coding Profiles
+## 📜 Certifications & Qualifications
+
+<p>
+  <img src="https://img.shields.io/badge/CDAC-PG--DAC-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle"/>
+  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco"/>
+  <img src="https://img.shields.io/badge/NPTEL-Certified-6A0DAD?style=for-the-badge"/>
+</p>
+
+### In Progress
+- 🎯 **CCEE (Capstone Course Examination)** - Spring/Summer 2026
+- 🎯 **CMCE (Common Module Capstone Exam)** - Spring/Summer 2026
+
+---
+
+## 💻 Coding & Development Profiles
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://github.com/misbahcode" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-misbahcode-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.linkedin.com/in/mohdmisbah/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-mohdmisbah-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
+<a href="https://leetcode.com/mohdmisbah" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
+<a href="https://www.geeksforgeeks.org/user/mohdmisbah" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbahcode&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=misbahcode&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahcode&layout=compact&theme=tokyonight&langs_count=10"/>
 
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=misbahcode&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=misbahcode&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus (2026)
 
 ```yaml
-Learning:
-  - Spring Boot
-  - Cloud Computing
-  - System Design
+🎓 PG-DAC Program:
+  Modules:
+    - Web-based Java Programming (WBJ) ✅
+    - Database Technologies (DBT) ✅
+    - Enterprise Computing (EC)
+    
+  Exams:
+    - CCEE (Capstone Course Exam)
+    - CMCE (Common Module Exam)
 
-Building:
-  - Full Stack Projects
-  - AI Powered Applications
+💻 Development Focus:
+  - Spring Boot & Microservices Architecture
+  - Spring Security Advanced Patterns
+  - Database Optimization & Query Performance
+  - Full Stack Application Development
+  - Cloud Deployment & DevOps
 
-Exploring:
-  - Machine Learning
-  - Backend Engineering
-  - DevOps
+🚀 Building:
+  - Production-grade REST APIs
+  - Enterprise applications with Spring Boot
+  - Full-stack solutions combining Java & modern frontend
+  - Open source contributions
 
-Open To:
-  - Software Engineer Roles
-  - Full Stack Developer Roles
-  - AI Engineer Opportunities
+🧠 Exploring:
+  - Microservices Design Patterns
+  - System Design & Scalability
+  - Cloud Native Architecture
+  - AI/ML Integration in applications
+  - Backend Performance Optimization
+
+📚 Learning Path:
+  - Advanced Java & Design Patterns
+  - Distributed Systems
+  - Cloud Computing (AWS/Azure)
+  - Data Structures & Algorithms
 ```
 
 ---
 
-# 🤝 Connect
+## 🌟 Why Work With Me?
+
+✨ **Problem Solver** - I approach challenges with systematic thinking and creative solutions  
+✨ **Continuous Learner** - Always updating skills and exploring new technologies  
+✨ **Clean Code Advocate** - SOLID principles, design patterns, and maintainable architecture  
+✨ **Full Stack Capability** - From database design to responsive UIs, end-to-end development  
+✨ **Team Player** - Collaborative approach with clear communication  
+✨ **Enterprise Ready** - Experience with scalable, production-grade applications  
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohdmisbah/">LinkedIn</a> •
-<a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+I'm always open to interesting opportunities, collaborations, and tech discussions!
+
+**📧 Email:** [Get in touch](mailto:contact@example.com)  
+**💼 LinkedIn:** [Mohammad Misbah](https://www.linkedin.com/in/mohdmisbah/)  
+**💻 GitHub:** [@misbahcode](https://github.com/misbahcode)  
+**🌐 Portfolio:** Coming Soon
 
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building scalable software, solving real-world problems, and learning every day."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,19,20,24,30"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,19,20,24,30"/>
+  <i>"Building scalable software, solving real-world problems, and learning every day. 🚀"</i>
 </p>
+
+<p align="center">
+  <strong>⭐ If you find my repositories useful, please consider giving them a star! ⭐</strong>
+</p>
+
+---
+
+**Last Updated:** June 2026  
+**Profile Status:** Open to Opportunities
